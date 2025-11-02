@@ -1,50 +1,35 @@
-# Welcome to your Expo app 👋
+# EduPlus - Learning Made Fun 📚
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+EduPlus is an educational mobile app designed for students from Grades 1 to 12. The app provides interactive learning materials, quizzes, educational games, and AI tutor assistance.
 
-## Get started
+## Features
 
-1. Install dependencies
+- 📚 **Grade-specific learning materials** (Grades 1-12)
+- 🧠 **Interactive quizzes** in Math, Science, and English
+- 🎮 **Educational games** for fun learning
+- 🤖 **AI tutor assistance** for homework help
+- 📊 **Progress tracking** and reports
+- 👨‍👩‍👧‍👦 **Parent dashboard** for monitoring
 
-   ```bash
-   npm install
-   ```
+## Tech Stack
 
-2. Start the app
+- **Frontend**: React Native with Expo
+- **Navigation**: Expo Router
+- **State Management**: React Hooks
+- **Storage**: AsyncStorage
+- **Styling**: React Native StyleSheet
 
-   ```bash
-   npx expo start
-   ```
+## Getting Started
 
-In the output, you'll find options to open the app in a
+### Prerequisites
+- Node.js
+- Expo CLI
+- Android Studio (for Android development)
+- Xcode (for iOS development, Mac only)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Installation
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+1. Clone the repository:
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/your-username/EduPlusMobile.git
+cd EduPlusMobile
